@@ -14,3 +14,6 @@ The main idea of Moodify project is to classify songs not only based on their ly
 - Duration has little or no correlation with other features
 - Key factors influencing songs emotion prediction include energy, instrumentalness and danceability. Interestingly, duration do not appear to have any correlation with other features and classification of emotion.
 
+To know more about this project processes and execution check this [presentation](https://github.com/user-attachments/files/16949594/Moodify_song.project.presentation.pptx)
+
+
